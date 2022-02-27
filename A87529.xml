@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God and the King: or, The divine constitution of the supreme magistrate; especially in the kingdome of England: against all popular pretenders whomsoever. Published for the satisfaction of the weake: being a private discourse of a reverend judge, with some commanders of the Army, for their satisfaction, by their desire.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87529</idno>
+            <idno type="STC">Wing J591</idno>
+            <idno type="STC">Thomason E550_2</idno>
+            <idno type="STC">ESTC R24407</idno>
+            <idno type="EEBO-CITATION">99872060</idno>
+            <idno type="PROQUEST">99872060</idno>
+            <idno type="VID">165015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165015)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God and the King: or, The divine constitution of the supreme magistrate; especially in the kingdome of England: against all popular pretenders whomsoever. Published for the satisfaction of the weake: being a private discourse of a reverend judge, with some commanders of the Army, for their satisfaction, by their desire.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to David Jenkins.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "by. Judge Jenkins"; "Aprill 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165015:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>GOD and the KING: <hi>OR,</hi> THE DIVINE CONSTITUTION OF THE <hi>S<g ref="char:V">Ʋ</g>PREME MAGISTRATE; ESPECIALLY</hi> In the Kingdome of ENGLAND: Againſt all popular Pretenders whomſoever.</p>
+            <p>
+               <add>by Judge Jenkins</add>
+            </p>
+            <p>
+               <hi>Publiſhed for the ſatisfaction of the weake: Being a private Diſcourſe of a Reverend Judge, with ſome Commanders of the Army, for their ſatis<g ref="char:EOLhyphen"/>faction, by their deſire.</hi>
+            </p>
+            <q>
+               <bibl>DAN. 2.37.</bibl>
+               <p>The God of heaven hath given thee a Kingdome, and Power.</p>
+            </q>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165015:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:165015:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>TO THE READER.</head>
+            <p>IN this Argument, the beſt and ſafeſt Ground for thy Judgment and Conſci<g ref="char:EOLhyphen"/>ence, is <hi>the Word of God, with the Law of the Land.</hi> And from both theſe, the <hi>Divine origen, and Supremacie of the King of England,</hi> is declared, and confir<g ref="char:EOLhyphen"/>med to thee.</p>
+            <p>As thou art <hi>Engliſh</hi> or <hi>Chriſtian,</hi> thou canſt not expect more then <hi>Scripture</hi> and <hi>Law</hi> for thy ſatisfaction.</p>
+            <p>And if thou acquieſce not in theſe, I ſhall not care to ſatisfie thee: And <hi>(for all thy profeſsions of Godlineſs and Ho<g ref="char:EOLhyphen"/>neſty)</hi> thou ſhalt be to me as an <hi>Heathen</hi> and <hi>Libertine.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:165015:3"/>
+            <!-- PDF PAGE 66 -->
+            <head>GOD <hi>and the</hi> KING, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Od hath a Naturall Dominion over,
+<note place="margin">Gods Domini<g ref="char:EOLhyphen"/>on Naturall and Vniverſal.</note> and the Univerſall Government of the whole world, <hi>Zach.</hi> 4.14. <hi>Pſal.</hi> 97.1.99.1.94.1, 2.</p>
+            <p>The Supreme Magiſtrate (whoſoever,
+<note place="margin">The Supreme Magiſtrate hath his power from God.</note> and whereſoever) hath his Power by way of Com<g ref="char:EOLhyphen"/>miſſion from God: <hi>I have ſaid, ye are Gods, Pſal.</hi> 82.6. <hi>John</hi> 10.34. And they are called <hi>Gods</hi> (ſaith M. <hi>Per<g ref="char:EOLhyphen"/>kins</hi>) becauſe they partake of <hi>his Power in their Authority,</hi>
+               <note place="margin">Pſal. 95.3. 1 Tim. 6.15.</note> and <hi>of his Glory in their Majeſty.</hi>
+            </p>
+            <p>The utmoſt of the Magiſtrates Power,
+<note place="margin">The utmoſt of the Magiſtrates Power.</note> 
+               <hi>is the Power of the Sword, Rom.</hi> 13.4. i. e. <hi>The Power of Life and Death;</hi> for the more effectuall ſuppreſſing of Vice, and Puniſhing and Reſtraining of Sinne. And with this power is he armed <hi>by God,</hi> ſay the Aſſem<g ref="char:EOLhyphen"/>bly of Divines in their confeſſion of Faith, Chap. of the Civill Magiſtrates. <hi>Nor can the People confer this Power on him.</hi> Be<g ref="char:EOLhyphen"/>cauſe,</p>
+            <p n="1">1. <note place="margin">The People cannot confer this power.</note> 
+               <hi>As Men,</hi> They have not Power over their own, much leſſe over one anothers Lives; All, and every of them, being un<g ref="char:EOLhyphen"/>der the Commandment, <hi>Non occides, Thou ſhalt not Kill.</hi>
+            </p>
+            <p n="2">2. <hi>As Chriſtians,</hi> They <hi>muſt not reſiſt evill, Mat.</hi> 5.39. <hi>nor revenge themſelves,
+<note place="margin">Pſal. 94.1, 2.</note> Rom.</hi> 12.39. For it is written, <hi>Vengeance is mine, I will repay,</hi> ſaith the Lord, And he maketh the Magiſtrate <hi>his Miniſter, a Revenger to execute wrath upon him that doth evill,</hi> Rom. 13.4.</p>
+            <p>And, in this caſe, the People can ordaine outward Formes, onely of Offices and Judicatories, without Divine Autho<g ref="char:EOLhyphen"/>rity or Power:
+<note place="margin">God conſtitutes the Supreame Magiſtrate in every Kingdom and State.</note> And ſo their ſeeming Legall Proceedings, and executions of Juſtice, are, indeed, nothing elſe but Reall, and Revengfull Murders. And as God conferreth the Power, ſo <hi>doth he Conſtitute the Governour, in every Kingdome and State, He re<g ref="char:EOLhyphen"/>moveth Kings, and ſetteth up Kings,</hi> Dan. 2.21. <hi>He ruleth in the
+<pb n="3" facs="tcp:165015:3"/>
+                  <!-- PDF PAGE 66 -->Kingdome of Men, and giveth it to whomſoever he will,</hi> Dan. 4.17.25.32.</p>
+            <p>God gave order to <hi>Samuel</hi> to Anoint, firſt, <hi>Saul,</hi> 1 <hi>Sam.</hi> 9.15.
+<note place="margin">How he made <hi>Saul</hi> and <hi>David</hi> Kings.</note> then <hi>David,</hi> King, 1 <hi>Sam.</hi> 16 12. And, afterwards, he ſetled the Kingdome <hi>in Davids Family,</hi> 2 <hi>Sam.</hi> 7.11.12.</p>
+            <p>And God tels us by S. <hi>Paul,
+<note place="margin">Luke 12.11.2 Chron. 9.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> That the higher Power is his Ordi<g ref="char:EOLhyphen"/>nance,</hi> Rom. 13.1.2. <hi>And his Miniſter,</hi> Ver. 4. Ordain'd and Conſtituted his Lieftenant, to Rule and Governe by him, and for him.</p>
+            <p>And, at this day, he Conſtituteth them in ſome places,
+<note place="margin">How God makes Kings at this day.</note> 
+               <hi>by the Peoples election,</hi> and <hi>with us by Hereditary ſucceſſion,</hi> Jam. 1.1.</p>
+            <p>But howſoever Conſtituted, the Supreme Magiſtrate is Gods Ordinance; and he that <hi>Reſiſteth him, reſiſteth the Ordinance of God; and they that Reſiſt ſhall receive to themſelves Damnation,</hi> Rom. 13.2.</p>
+            <p>Now the great Queſtion, and onely doubt to be Reſolved, is,
+<note place="margin">Whether the King be the Supream Ma<g ref="char:EOLhyphen"/>giſtrate. <hi>S. Pauls</hi> Cha<g ref="char:EOLhyphen"/>racter of the Supreme Ma<g ref="char:EOLhyphen"/>giſtrate applyed to the King.</note> 
+               <hi>Who, with us, is the Supreme Magiſtrate?</hi> Whether the King, or the Lords and Commons Aſſembled in Parliament?</p>
+            <p>I anſwer, and prove, the <hi>King to be the Supreme Magiſtrate, that Character which S.</hi> Paul <hi>gives of him,</hi> Rom. 13.</p>
+            <p>The higher Power to whom ever Soul is ſubject, <hi>Verſe</hi> 1.</p>
+            <p>And, with us, <hi>the King is that higher Power, from whom all Au<g ref="char:EOLhyphen"/>thority and Juriſdiction is derived,</hi> 1 Edw. 6. c. 2.</p>
+            <p>And to <hi>whom every Subject owes Homage, and faith of Member, Life, and earthly Honour,</hi> 6 Edw. 1. Com. Sur. Little. 85.</p>
+            <p>The Miniſter of God having the power of the Sword, for de<g ref="char:EOLhyphen"/>fence of the good, and puniſhment of evill doers, <hi>Verſe</hi> 3, 4.</p>
+            <p>And, with us, <hi>the King hath full power in all caſes to doe Juſtice to all men,</hi> 24 Hen. 8. cap. 12.</p>
+            <p>
+               <hi>And the puniſhment of all offenders belongs to the King,</hi> Mar. 1.1.</p>
+            <p>
+               <hi>And all Judges and Miniſters of Juſtice, have their power in this caſe by Commiſſion from him,</hi> 27 Hen. 8. c. 4.</p>
+            <p>Laſtly, <hi>the ſole power of pardoning Treaſons, and Felonies, belongs to the King,</hi> Ibid.</p>
+            <p>The Perſon to whom Tribute is due, and Cuſtomes, and Fear, and Honour, <hi>Ver.</hi> 7. which is, the King.</p>
+            <q>
+               <hi>Wherefore we muſt needs be ſubject</hi> (to the King) <hi>not onely for wrath, but alſo for Conſcience ſake,</hi>
+               <bibl>Rom. 13.5.</bibl>
+            </q>
+            <p>
+               <pb n="4" facs="tcp:165015:4"/>
+               <!-- PDF PAGE 67 -->
+Secondly,
+<note place="margin">The Kings Su<g ref="char:EOLhyphen"/>premacy aſſer<g ref="char:EOLhyphen"/>ted by the Laws of the Land.</note> the Kings Supremacy is aſſerted <hi>by the Lawes of the Land, and by ſeverall Acts of Parliament,</hi> whereto the Lords and Commons themſelves have aſſented.</p>
+            <p>
+               <hi>Bracton,</hi>
+               <note place="margin">
+                  <hi>Bracton.</hi>
+               </note> a Learned Lawyer, living in the Time of <hi>Hen.</hi> 3. <hi>tells</hi> us, <hi>Every one is under the King, and he under none but God alone,</hi> Lib. 4. Cap. 24. Sect. 5.</p>
+            <p>
+               <hi>The Regality of the Crown of</hi> England <hi>is immediatly ſubject to God,
+<note place="margin">16 <hi>Ric.</hi> 2. c. 5.</note> and to none other,</hi> 16 Rich. 2. c. 5.</p>
+            <p>24 Hen. 8. c. 12. <note place="margin">24 <hi>Hen.</hi> 8 <hi>c.</hi> 12.</note> 
+               <hi>The Realme of</hi> England <hi>is an empire, and ſo hath been accepted in the world, Governed by one Supreame Head, and King, having the Dignity, and Royall eſtate of the Imperial Crown of the ſame, unto whom a Body Politick compact of all ſorts, and degrees of People, been bounden, and owen, to bear next to God, a naturall and humble obedience.</hi>
+            </p>
+            <p>25 Hen. 8. c. 21. <note place="margin">25 <hi>Hen.</hi> 8. <hi>c.</hi> 21.</note> 
+               <hi>The Commons acknowledge no Superiour to the King under God.</hi>
+            </p>
+            <p>1 Eliz. 1. <note place="margin">1 <hi>Eliz.</hi> 1.</note> The <hi>Oath of Supremacy</hi> is framed; Declaring, <hi>the King to be the one Supream Governour in all Cauſes, and over all Perſons; &amp;c.</hi>
+            </p>
+            <p>And the ſaid Act is but a <hi>Declaration of the Ancient Law,</hi> Caw<g ref="char:EOLhyphen"/>dries Caſe, 5. part fol. 1.</p>
+            <p>
+               <hi>And no Perſon in any Parliament hath a voice in the Houſe of Commons unleſſe he take this Oath,</hi> 5 Eliz. 1.</p>
+            <p>1 Jac. 1. <note place="margin">1 <hi>Jac.</hi> 1.</note> The <hi>Lords and Commons</hi> Aſſembled in Parliament tell us, <hi>That in the High Court of Parliament, all the Body of the Realme is either in Perſon, or by Repreſentation (upon their own free election) And they acknowledge King</hi> James <hi>to be their only Right<g ref="char:EOLhyphen"/>full, and Lawfull King, Lord, and Soveraign: And they ſubmit themſelves, and their Poſterities to His Majeſty, and His Royall Pro<g ref="char:EOLhyphen"/>geny; and Poſterity for ever.</hi>
+            </p>
+            <p>And in this preſent Parliament in their Addreſſes to the King doe the Lords and Commons acknowledge <hi>Him their gratious Soveraigne,</hi> and <hi>themſelves His Majeſties Subjects.</hi>
+            </p>
+            <p>Now the Law makes not the Servant greater then his Maſter, nor the Subject greater then the King; <hi>for that were to ſubvert Order and Meaſure.</hi>
+            </p>
+            <p>Laſtly, the King calls, adjournes, prorogues, and diſſolves the two Houſes at pleaſure: therefore He is Superiour to them.</p>
+            <p>
+               <pb n="5" facs="tcp:165015:4"/>
+               <!-- PDF PAGE 67 -->
+Though at this time the exerciſe of that Kingly Power be ſu<g ref="char:EOLhyphen"/>ſpended by the Act of Continuation; whereby nevertheleſſe, the two Houſes were inlarged in Time onely, not in Power.</p>
+            <p>And whatſoever is pretended,
+<note place="margin">The power of the Lords and Commons in Parliament.</note> the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament have, in truth, no <hi>more power then what the Kings Writ of Summons gives them.</hi>
+            </p>
+            <p>And the Lords are ſummoned, <hi>To Conſult, and Treat with the King upon matters of great Concernment touching the King, the De<g ref="char:EOLhyphen"/>fence of the Kingdome, and Church of</hi> England: <hi>And the Commons, To Doe, and Conſent to ſuch things as ſhall be ordained by Common Counſell in Parliament.</hi>
+            </p>
+            <p>And this is all the Power that the Knights, Citizens, and Bur<g ref="char:EOLhyphen"/>geſſes, have from the Places, for which they ſerve.</p>
+            <p>The Power of <hi>Magiſtracy,</hi> is not, cannot be, from the People,
+<note place="margin">The King the Repreſentative of God; the Parliament of the People.</note> but from God: And ſo the <hi>King, the Repreſentative of God,</hi> muſt needs be Superiour to <hi>the Parliament the Repreſentative of the People.</hi>
+            </p>
+            <p>Thus in the Order of Government God hath the firſt place,
+<note place="margin">The Order in Government.</note> throughout the world: And <hi>next under God is the Supreme Ma<g ref="char:EOLhyphen"/>giſtrate in all places of the world:</hi> And, in <hi>England,</hi> the KING <hi>is the ſupreme Governour, inferiour to none but God alone His Mi<g ref="char:EOLhyphen"/>niſter to protect, and puniſh;</hi> and, under him, <hi>the Fountaine of all Authority, Power, and Juſtice, in the Kingdome:</hi> To whom every one owes <hi>homage,</hi> and the whole Body of the Realme <hi>a naturall and humble obedience,</hi> as to <hi>their Head;</hi> and <hi>faith</hi> and <hi>allegiance,</hi> as to their onely <hi>rightfull</hi> and <hi>lawfull Lord</hi> and <hi>Soveraigne.</hi>
+            </p>
+            <p>Now the meanes, and manner, whereby the KING of <hi>England</hi> obtaines the Government thereof, is ſet forth, 1 Jac. 1. where the Lords and Commons aſſembled in Parliament,
+<note place="margin">How the Crowne de<g ref="char:EOLhyphen"/>ſcends to the King.</note> 
+               <hi>(being bounden thereunto both by the Lawes of God, and Man) doe recognize and ac<g ref="char:EOLhyphen"/>knowledge, That immediately upon the Diſſolution and Deceaſe of</hi> Eliz. <hi>late Queen of</hi> England, <hi>the Imperiall Crowne of the Realme of</hi> England, <hi>and of all the Kingdomes, Dominions, and Rights, belong<g ref="char:EOLhyphen"/>ing to the ſame, did by inherent Birth right, and lawfull, and un<g ref="char:EOLhyphen"/>doubted Succeſſion deſcend, and come, to His moſt excellent Majeſty, as being Lineally, Juſtly, and Lawfully, next, and ſole Heire of the Bloud Royall of this Realme; And that,
+<note place="margin">
+                     <hi>Note.</hi>
+                  </note> by the goodneſſe of God Al<g ref="char:EOLhyphen"/>mighty, and Lawfull Right of Deſcent, he was King of</hi> England, &amp;c.</p>
+            <p>
+               <pb n="6" facs="tcp:165015:5"/>
+               <!-- PDF PAGE 68 -->
+And ſo the ſaying of Sir <hi>Walter Raleigh</hi> is verified with us,
+<note place="margin">
+                  <hi>Lib. Secund. Hiſt. Mund.</hi>
+               </note> 
+               <hi>Kings are made by God and Lawes Divine; and by Humane Laws, onely declared to be Kings:</hi>
+               <note place="margin">Rom. 14.4.</note> And thereupon he obſerves, That <hi>David</hi> thought himſelf accomptable onely to God, <hi>To thee onely have I ſinned, Pſal.</hi> 51.</p>
+            <p>
+               <label>Object.</label> But Parliaments have Depoſed Kings;
+and tranſlated the Crowne from the Heire of the Bloud Royall to others.</p>
+            <p>
+               <hi>The Depoſers were Traytours,</hi>
+               <note place="margin">
+                  <hi>Sol.</hi>
+               </note> by the Reſolution of all the Judges of <hi>England, Cook.</hi> 2. <hi>part. Inſtit: cap.</hi> of High Treaſon.</p>
+            <p>And thoſe that came to the Crowne by <hi>the Title of the Parlia<g ref="char:EOLhyphen"/>ment</hi> were <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers;</hi> and Kings onely <hi>De facto,</hi> but not <hi>De jure.</hi>
+            </p>
+            <p>Nor let us owne the Practiſes of exorbitant Parliaments, but adhere to <hi>our legall Oaths of Supremacy</hi> and <hi>Allegiance,</hi> wherein we have ſworne <hi>to beare faith and true Allegiance, as to the Kings Highneſſe, ſo to His Heires and lawfull Succeſſours: And Him, and Them to defend to the utmoſt of our power, against all Con<g ref="char:EOLhyphen"/>ſpiracies and Attempts whatſoever, which ſhall be made againſt His or Their Perſons, their Crowne, and Dignity.</hi>
+            </p>
+            <p>And whereas, <hi>They</hi> (in former times) <hi>did ſet up Kings, and not by God, Hoſ.</hi> 8.4.</p>
+            <p>
+               <hi>We have ſaid,
+<note place="margin">See <hi>Junius</hi> and <hi>Tremelius</hi> upon the places.</note> we have no King, what ſhall a King doe unto us? Hoſ.</hi> 10.3.</p>
+            <p>Take all ſummed up in the Confeſſion of the Church of <hi>Scotland,</hi> concerning the Civill Magiſtrate.</p>
+            <p>WE confeſſe,
+<note place="margin">The Confeſſi<g ref="char:EOLhyphen"/>on of the Ch: of <hi>Scotland.</hi>
+               </note> and acknowledge, Empires, Kingdomes, Domini<g ref="char:EOLhyphen"/>ons, and Cities, to be diſtincted, and ordained by God; The powers and Authorities in the ſame (be it of Emperours, in their Em<g ref="char:EOLhyphen"/>pires; Kings, in their Realmes; Dukes, and Princes, in their Domi<g ref="char:EOLhyphen"/>nions; And of other Magiſtrates in their Citie) to be Gods holy Or<g ref="char:EOLhyphen"/>dinance, ordained for the manifeſtation of his glory, and for the ſingu<g ref="char:EOLhyphen"/>lar profit and community of Mankind, ſo that whoſoever goeth about to take away, or confound the whole ſtate of Civill policy, now long eſtabliſhed, we affirme the ſame men not only to be Enemies to Man<g ref="char:EOLhyphen"/>kind, but alſo wickedly to fight againſt Gods expreſſed will.</p>
+            <epigraph>
+               <q>Feare GOD: Honour the KING 1 <bibl>Pet. 2.17.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
